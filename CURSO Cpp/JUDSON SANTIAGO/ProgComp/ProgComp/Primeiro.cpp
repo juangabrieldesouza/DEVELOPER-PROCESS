@@ -6,8 +6,8 @@ using namespace std;
 int main() {
 
 	cout << "bem vindo ao C++";
-	coux << endl;
-	coup << "Meu primeiro programa!" << endl;
+	cout << endl;
+	cout << "Meu primeiro programa!" << endl;
 
 
 
