@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2 - Repos\\PROCESSO ENGINE\\CURSO Cpp\\JUDSON SANTIAGO\\MediaFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8B78B4-E391-4823-90DB-CCE4FA2A6CDD}|MediaFinal\\MediaFinal.vcxproj|D:\\2 - Repos\\PROCESSO ENGINE\\CURSO Cpp\\JUDSON SANTIAGO\\MediaFinal\\MediaFinal\\CalcMedia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EB8B78B4-E391-4823-90DB-CCE4FA2A6CDD}|MediaFinal\\MediaFinal.vcxproj|solutionrelative:MediaFinal\\CalcMedia.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalcMedia.cpp",
+              "DocumentMoniker": "D:\\2 - Repos\\PROCESSO ENGINE\\CURSO Cpp\\JUDSON SANTIAGO\\MediaFinal\\MediaFinal\\CalcMedia.cpp",
+              "RelativeDocumentMoniker": "MediaFinal\\CalcMedia.cpp",
+              "ToolTip": "D:\\2 - Repos\\PROCESSO ENGINE\\CURSO Cpp\\JUDSON SANTIAGO\\MediaFinal\\MediaFinal\\CalcMedia.cpp",
+              "RelativeToolTip": "MediaFinal\\CalcMedia.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-29T21:31:06.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
